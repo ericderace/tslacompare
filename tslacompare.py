@@ -1,3 +1,11 @@
+# tslacompare.py
+# 
+# 2024 Eric Hebert
+#
+# Compare TSLA stock data for a specified number of years including the current year to check for seasonal stock price changes
+#
+# License: MIT
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import yfinance as yf
